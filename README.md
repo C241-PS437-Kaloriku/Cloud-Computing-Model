@@ -8,5 +8,5 @@
 https://cloud.google.com/sdk/docs/install 
 ### 2. Deploy
 ```
-gcloud run deploy --source . --port 8080
+gcloud run deploy --source . --port 5000
 ```
